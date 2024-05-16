@@ -17,5 +17,7 @@ All of the projects that have a repo available have a <span style="color: #03fce
 |10|👩🏻‍💻 Exam Rank 03                                                                                                                                                                                | Second exam. No internet, no ide features, just man. I had to code get_next_line.                 | 11.01.24 | 100 /<br>100 ✅| unavailable |
 |11|[![minishell](https://github.com/ayogun/42-project-badges/blob/main/badges/minishelle.png)](https://github.com/FreddyMSchubert/42_minishell)                                                   | Making of a custom shell with logical and, logical or, brackets for priorities, ’, ", <, >, <<, >>, pipes, $, $?, a history, echo, cd, pwd, export, unset, env, exit, correct executable execution, and a bunch more.| 27.04.24 | 100 /<br>100 ✅ | 25 /<br> 25 💫 |
 |11|[![cub3d](https://github.com/ayogun/42-project-badges/blob/main/badges/cub3dn.png)]()             | Exploring Raycasting by making a game inspired by the world-famous Wolfenstein 3d!| 🔁 | 🔁 | 🔁 |
+|12|👩🏻‍💻 Exam Rank 04                                                                                                                                                                                | Third exam. No internet, no ide features, just man. I had to code "microshell", mini version of minishell.                 | 🔁 | 🔁| unavailable |
+
 
 > Some of these projects have some great READMEs - I recommend checking them out.
