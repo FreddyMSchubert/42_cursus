@@ -1,0 +1,27 @@
+[submodule "projects/00_libft"]
+	path = projects/00_libft
+	url = https://github.com/FreddyMSchubert/42_libft
+[submodule "projects/01_ft_printf"]
+	path = projects/01_ft_printf
+	url = https://github.com/FreddyMSchubert/42_ft_printf
+[submodule "projects/02_get_next_line"]
+	path = projects/02_get_next_line
+	url = https://github.com/FreddyMSchubert/42_get_next_line
+[submodule "projects/03_fdf"]
+	path = projects/03_fdf
+	url = https://github.com/FreddyMSchubert/42_FdF
+[submodule "projects/04_push_swap"]
+	path = projects/04_push_swap
+	url = https://github.com/FreddyMSchubert/42_push_swap
+[submodule "projects/05_pipex"]
+	path = projects/05_pipex
+	url = https://github.com/FreddyMSchubert/42_pipex
+[submodule "projects/06_philosophers"]
+	path = projects/06_philosophers
+	url = https://github.com/FreddyMSchubert/42_Philosophers
+[submodule "projects/07_minishell"]
+	path = projects/07_minishell
+	url = https://github.com/FreddyMSchubert/42_minishell
+[submodule "projects/08_cub3d"]
+	path = projects/08_cub3d
+	url = https://github.com/FreddyMSchubert/42_cub3d
