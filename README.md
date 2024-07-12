@@ -20,7 +20,7 @@ The projects are sorted in the order I started them in.
 |3|[![minishell](https://github.com/ayogun/42-project-badges/blob/main/badges/minishelle.png)](https://github.com/FreddyMSchubert/42_minishell)                                                   | Making of a custom shell with logical and, logical or, brackets for priorities, ’, ", <, >, <<, >>, pipes, $, $?, a history, echo, cd, pwd, export, unset, env, exit, correct executable execution, and a bunch more.| 27.04.24 | 100 /<br>100 ✅ | 25 /<br> 25 💫 |
 |4|[![cub3d](https://github.com/ayogun/42-project-badges/blob/main/badges/cub3de.png)](https://github.com/FreddyMSchubert/42_cub3d)             | Exploring Raycasting by making a game inspired by the world-famous Wolfenstein 3d!| 08.07.2024 | 100 /<br>100 ✅ | 25 /<br> 25 💫 |
 |4|👩🏻‍💻 Exam Rank 04                                                                                                                                                                                | Third exam. No internet, no ide features, just man. I had to code "microshell", mini version of minishell.                 | 16.05.2024 | 100 /<br>100 ✅ | unavailable |
-|4|[![cub3d](https://github.com/ayogun/42-project-badges/blob/main/badges/cppe.png)](https://github.com/FreddyMSchubert/42_cpp)             | Collection of C++ exercises. | 🔁 | 🔁 | 🔁 |
+|4|[![cub3d](https://github.com/ayogun/42-project-badges/blob/main/badges/cppn.png)](https://github.com/FreddyMSchubert/42_cpp)             | Collection of C++ exercises. | 🔁 | 🔁 | 🔁 |
 
 
 > Some of these projects have some great READMEs - I recommend checking them out.
