@@ -25,3 +25,6 @@
 [submodule "projects/08_cub3d"]
 	path = projects/08_cub3d
 	url = https://github.com/FreddyMSchubert/42_cub3d
+[submodule "projects/09_cpp"]
+	path = projects/09_cpp
+	url = https://github.com/FreddyMSchubert/42_cpp
