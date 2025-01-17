@@ -35,7 +35,7 @@
 |5|[![cpp02](https://github.com/ayogun/42-project-badges/blob/main/badges/cppe.png)](https://github.com/FreddyMSchubert/42_cpp)             | Tasks 05 -> 09. Collection of C++ exercises. | 14.09.2024 | 100 /<br>100 ✅ | 100 % 💫 |
 |5|[![inception](https://github.com/ayogun/42-project-badges/blob/main/badges/inceptione.png)](https://github.com/FreddyMSchubert/42_inception)             | System admin using Docker. (Setting up WordPress) | 🔁 | 🔁 | 🔁 |
 |5|👩🏻‍💻 Exam Rank 05                               | Third exam. No internet, no ide features, no chatbots, just man. I had to code a bunch of cpp exercises. Main difficulty was the amount of exercises not the individual difficulty, the three hour time constrait was a huge factor.                 | 04.10.2024 | 100 /<br>100 ✅ | unavailable |
-|5|[![webserv](https://github.com/ayogun/42-project-badges/blob/main/badges/webserve.png)](https://github.com/FreddyMSchubert/42_webserv)             | Full implementation of our own HTTP server. | 🔁 | 🔁 | 🔁 |
+|5|[![irc](https://github.com/ayogun/42-project-badges/blob/main/badges/ft_irce.png)](https://github.com/FreddyMSchubert/42_irc)             | Full implementation of our own IRC server. | 🔁 | 🔁 | 🔁 |
 
 ---
 
