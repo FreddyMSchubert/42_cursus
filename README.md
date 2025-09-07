@@ -39,6 +39,6 @@
 
 ---
 
-### The current (16/10/24) overview graph of my 42 progress.
+### The current (07/09/25) overview graph of my 42 progress.
 
 ![42 progress overview graph](assets/project_graph.png)
