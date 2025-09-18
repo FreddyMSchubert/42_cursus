@@ -2,7 +2,7 @@
 ### Overview of all my projects at [42 Heilbronn](https://www.42heilbronn.de/en/).
 
 > [!NOTE]
-> It is September 2025 and I just finished the final exam! My 42 core curriculum journey has come to an end.
+> It is September 2025 and I just finished the final exam! My 42 core curriculum journey has come to an end. ***I have transcended.***
 
 > [!NOTE]
 > While I learned a huge amount doing the 42 core curriculum projects, the impact of my extracurriculars can't be underestimated. Or in other words: Have you heard about [CORE GAME](https://coregame.de/)?

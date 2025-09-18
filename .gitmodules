@@ -28,3 +28,12 @@
 [submodule "projects/09_cpp"]
 	path = projects/09_cpp
 	url = https://github.com/FreddyMSchubert/42_cpp
+[submodule "projects/42_inception"]
+	path = projects/10_inception
+	url = https://github.com/FreddyMSchubert/42_inception.git
+[submodule "projects/11_irc"]
+	path = projects/11_irc
+	url = https://github.com/FreddyMSchubert/42_irc.git
+[submodule "projects/12_transcendence"]
+	path = projects/12_transcendence
+	url = https://github.com/FreddyMSchubert/42_transcendence.git
