@@ -2,6 +2,12 @@
 ### Overview of all my projects at [42 Heilbronn](https://www.42heilbronn.de/en/).
 
 > [!NOTE]
+> It is September 2025 and I just finished the final exam! My 42 core curriculum journey has come to an end.
+
+> [!NOTE]
+> While I learned a huge amount doing the 42 core curriculum projects, the impact of my extracurriculars can't be underestimated. Or in other words: Have you heard about [CORE GAME](https://coregame.de/)?
+
+> [!NOTE]
 > In October 2024 I achieved ✨ ***MASTERMIND* status** ✨ for completing over *21* projects with the maximum possible score. 🎉 \
 > This almost always included difficult extra tasks as a bonus. \
 > => My official name on the 42 Intranet has now changed from *fschuber* to ***Mastermind** fschuber*. 💪\
@@ -33,9 +39,13 @@
 |4|[![cpp01](https://github.com/ayogun/42-project-badges/blob/main/badges/cppe.png)](https://github.com/FreddyMSchubert/42_cpp)             | Tasks 00 -> 04. Collection of C++ exercises. | 28.08.2024 | 100 /<br>100 ✅ | 100 % 💫 |
 |4|![netpractice](https://github.com/ayogun/42-project-badges/blob/main/badges/netpracticen.png)             | Networking & Subnetting exercises. | 03.09.2024 | 100 /<br>100 ✅ | unavailable |
 |5|[![cpp02](https://github.com/ayogun/42-project-badges/blob/main/badges/cppe.png)](https://github.com/FreddyMSchubert/42_cpp)             | Tasks 05 -> 09. Collection of C++ exercises. | 14.09.2024 | 100 /<br>100 ✅ | 100 % 💫 |
-|5|[![inception](https://github.com/ayogun/42-project-badges/blob/main/badges/inceptione.png)](https://github.com/FreddyMSchubert/42_inception)             | System admin using Docker. (Setting up WordPress) | 🔁 | 🔁 | 🔁 |
+|5|[![inception](https://github.com/ayogun/42-project-badges/blob/main/badges/inceptione.png)](https://github.com/FreddyMSchubert/42_inception)             | System admin using Docker. (Setting up WordPress) | 14.07.2025 | 100 /<br>100 ✅ | / |
 |5|👩🏻‍💻 Exam Rank 05                               | Third exam. No internet, no ide features, no chatbots, just man. I had to code a bunch of cpp exercises. Main difficulty was the amount of exercises not the individual difficulty, the three hour time constrait was a huge factor.                 | 04.10.2024 | 100 /<br>100 ✅ | unavailable |
-|5|[![irc](https://github.com/ayogun/42-project-badges/blob/main/badges/ft_irce.png)](https://github.com/FreddyMSchubert/42_irc)             | Full implementation of our own IRC server. | 17.01.2024 | 100 /<br>100 ✅ | 25 /<br>25 💫 |
+|5|[![irc](https://github.com/ayogun/42-project-badges/blob/main/badges/ft_irce.png)](https://github.com/FreddyMSchubert/42_irc)             | Full implementation of our own IRC server. | 17.01.2025 | 100 /<br>100 ✅ | 25 /<br>25 💫 |
+|6|[![transcendence](https://github.com/ayogun/42-project-badges/blob/main/badges/ft_transcendencee.png)](https://github.com/FreddyMSchubert/42_transcendence)             | Custom Mini Web Framework to build a social pong an overengineered competition website. | 25.08.2025 | 100 /<br>100 ✅ | 25 /<br>25 💫 |
+|5|👩🏻‍💻 Exam Rank 06                               | Third exam. No internet, no ide features, no chatbots, just man. I had to create a simplified irc-like chat server via sockets.                 | 18.09.2025 | 100 /<br>100 ✅ | unavailable |
+
+
 
 ---
 
